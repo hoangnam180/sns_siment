@@ -1,5 +1,5 @@
 
-.foorter-contact-wrapper{
+.footer-contact-wrapper{
     margin-top: 25px;
     background-color: #F5F5F5;
     min-height: 300px;
@@ -117,7 +117,7 @@
 .contact-form__submit:hover{
     background-color: var(--primary-color);
 }
-.foorter-payment-methods{
+.footer-payment-methods{
     display: flex;
     justify-content: space-between;
     padding: 20px 15px;
@@ -132,7 +132,6 @@
 .payment-methods__img{
     display: block;
     text-decoration: none;
-    width:100%;
     height: auto;
     text-align: right;
 }

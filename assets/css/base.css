@@ -10,6 +10,9 @@ html{
     box-sizing: border-box;
     -webkit-tap-highlight-color: transparent;
 }
+.mt-t20{
+    margin-top: 20px;
+}
 a{
     text-decoration: none;
 }
@@ -20,9 +23,7 @@ a{
     --text-nav:#333;
     --while-color:#fff;
 }
-body{
-    height: 100000000px;
-}
+
 @keyframes faceIn{
     from {
         opacity: 0;
